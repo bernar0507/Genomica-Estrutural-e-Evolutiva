@@ -1,7 +1,7 @@
-# Genomica-Estrutural-e-Evolutiva
+# Structural and Evolutionary Genomics
 
 # What is this?
-This repository contains a presentation done by me and a classmate in the curricular unit "Genómica Estrutural e Evolutiva" in my 
+This repository contains a presentation done by me and a classmate in the curricular unit Structural and Evolutionary Genomics in my 
 Bioinformatics degree. 
 This presentation was about a protein (oxytocin) and required a bit of research by both of us. 
 
